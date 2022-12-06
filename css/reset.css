@@ -4,6 +4,8 @@
   border: none;
   box-sizing: border-box;
   outline: none;
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
+  color: #222222;
 }
 
 ul {
@@ -11,7 +13,7 @@ ul {
 }
 
 img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
